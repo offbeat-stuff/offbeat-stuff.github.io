@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - My New Hugo Site</title>
+        <link>/posts/</link>
+        <description>All Posts | My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 27 Jan 2021 17:04:16 &#43;0530</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Primes</title>
+    <link>/posts/primes/</link>
+    <pubDate>Wed, 27 Jan 2021 17:04:16 &#43;0530</pubDate>
+    <author>Author</author>
+    <guid>/posts/primes/</guid>
+    <description><![CDATA[Prime Numbers Iterators and Fizzbuzz Well Fizzbuzz is a simple programming challenge.
+1 2  var x = 10 for j in [10 20 40]: echo j   ]]></description>
+</item></channel>
+</rss>
